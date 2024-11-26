@@ -1,2 +1,2 @@
 Web Phishing Detection
-https://github.com/user-attachments/assets/7d20e970-85cd-4027-b922-0b093fcbaf13
+![Web-Phishing-Detection](https://github.com/user-attachments/assets/ded98e6f-3bb1-4f33-afcb-8947a30e83c7)
